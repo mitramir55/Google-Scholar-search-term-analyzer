@@ -1,0 +1,1 @@
+{"nodes": [{"id": "nlp", "group": 1, "size": 13.438632906708023}, {"id": "healthcare", "group": 1, "size": 15.216693531577915}], "links": [{"source": "healthcare", "target": "nlp", "value": 39200.0, "color": 39200.0}]}
